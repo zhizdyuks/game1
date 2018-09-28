@@ -94,7 +94,7 @@ STRUCTURE:
 ===>HUD
 
 _______________
-|           |  | 
+|===        |  | 
 |           |__|
 |              |
 |              |
@@ -103,10 +103,13 @@ _______________
 ___|_|_|_|_|_____
 1) 4 active skill-boxes (center alligned in the bottom of the window)
 2) tactics map
-3)
+3) health
 
 
 
+
+
+_______________________
 LEVEL DESIGN:
     Space plane with enemies and random obstacles (asteroids etc.)
     ...
