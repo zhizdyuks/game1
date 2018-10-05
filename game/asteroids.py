@@ -18,6 +18,6 @@ class Asteroid(object):
             y = self.r * sin(angle)
             vertex(x, y)
         endShape(CLOSE)
-        
-        
         popMatrix()
+        
+    
